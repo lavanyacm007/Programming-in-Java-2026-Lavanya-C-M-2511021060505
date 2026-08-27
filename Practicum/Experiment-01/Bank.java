@@ -4,7 +4,7 @@ public class Bank {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String name = "Raj";
+        String name = "Lavanya";
         long accNo = 4596214589L;
         String type = "Savings";
         double balance = 7000;
